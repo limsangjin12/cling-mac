@@ -18,7 +18,7 @@ Accessibility. Cling uses Accessibility only when you choose a window command.
 
 ## Direct Download
 
-Download the latest notarized ZIP from
+Download the latest signed and notarized DMG from
 [Releases](https://github.com/limsangjin12/cling-mac/releases).
 
 ## Privacy
